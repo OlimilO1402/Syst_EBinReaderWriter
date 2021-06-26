@@ -1,0 +1,11 @@
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\bin\Release\EndianBinaryReader.exe.config
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\bin\Release\EndianBinaryReader.exe
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\bin\Release\EndianBinaryReader.pdb
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\bin\Release\EndianBinaryReader.xml
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\obj\Release\EndianBinaryReader.Form1.resources
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\obj\Release\EndianBinaryReader.Resources.resources
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\obj\Release\EBinReaderWriter.vbproj.GenerateResource.cache
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\obj\Release\EBinReaderWriter.vbproj.CoreCompileInputs.cache
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\obj\Release\EndianBinaryReader.exe
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\obj\Release\EndianBinaryReader.xml
+\\SOLS_DS\Daten\GitHubRepos\NVBCS\Sys_EBinReaderWriter\EBinReaderWriter\obj\Release\EndianBinaryReader.pdb
