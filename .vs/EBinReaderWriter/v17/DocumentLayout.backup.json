@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\SOLS_DS\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F88664F-2921-45E3-B575-622A2DAAE725}|EBinReaderWriter\\EBinReaderWriter.vbproj|\\\\sols_ds\\daten\\githubrepos\\nvbcs\\syst_ebinreaderwriter\\ebinreaderwriter\\data.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F88664F-2921-45E3-B575-622A2DAAE725}|EBinReaderWriter\\EBinReaderWriter.vbproj|\\\\sols_ds\\daten\\githubrepos\\nvbcs\\syst_ebinreaderwriter\\ebinreaderwriter\\document.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F88664F-2921-45E3-B575-622A2DAAE725}|EBinReaderWriter\\EBinReaderWriter.vbproj|\\\\sols_ds\\daten\\githubrepos\\nvbcs\\syst_ebinreaderwriter\\ebinreaderwriter\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F88664F-2921-45E3-B575-622A2DAAE725}|EBinReaderWriter\\EBinReaderWriter.vbproj|\\\\sols_ds\\daten\\githubrepos\\nvbcs\\syst_ebinreaderwriter\\ebinreaderwriter\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F88664F-2921-45E3-B575-622A2DAAE725}|EBinReaderWriter\\EBinReaderWriter.vbproj|\\\\sols_ds\\daten\\githubrepos\\nvbcs\\syst_ebinreaderwriter\\ebinreaderwriter\\endianbinaryreader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\Form1.vb",
+              "RelativeDocumentMoniker": "EBinReaderWriter\\Form1.vb",
+              "ToolTip": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\Form1.vb",
+              "RelativeToolTip": "EBinReaderWriter\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T18:31:53.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Entwurf]",
+              "DocumentMoniker": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\Form1.vb",
+              "RelativeDocumentMoniker": "EBinReaderWriter\\Form1.vb",
+              "ToolTip": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\Form1.vb [Entwurf]",
+              "RelativeToolTip": "EBinReaderWriter\\Form1.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T18:31:48.017Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.vb",
+              "DocumentMoniker": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\Document.vb",
+              "RelativeDocumentMoniker": "EBinReaderWriter\\Document.vb",
+              "ToolTip": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\Document.vb",
+              "RelativeToolTip": "EBinReaderWriter\\Document.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T17:48:05.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.vb",
+              "DocumentMoniker": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\Data.vb",
+              "RelativeDocumentMoniker": "EBinReaderWriter\\Data.vb",
+              "ToolTip": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\Data.vb",
+              "RelativeToolTip": "EBinReaderWriter\\Data.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T17:47:49.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndianBinaryReader.vb",
+              "DocumentMoniker": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\EndianBinaryReader.vb",
+              "RelativeDocumentMoniker": "EBinReaderWriter\\EndianBinaryReader.vb",
+              "ToolTip": "\\\\sols_ds\\Daten\\GitHubRepos\\NVBCS\\Syst_EBinReaderWriter\\EBinReaderWriter\\EndianBinaryReader.vb",
+              "RelativeToolTip": "EBinReaderWriter\\EndianBinaryReader.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-25T17:46:32.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
