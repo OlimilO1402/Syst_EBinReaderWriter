@@ -43,14 +43,15 @@ Public Class Data
     End Sub
 End Class
 
-Public Class DataBAGZZlash
+Public Class DataChallenge
     Private Structure GenesteterUDT
         Public TestDouble As Double
     End Structure
 
     Private Structure TestUDT
-        Public TestString As String
-        Public TestLong As Integer
+        Public TestString As String 'added 2025-03-14
+        Public TestLong As Integer 'added 2025-03-14
+        Public TestLong2 As Integer ' added 2025-03-28 new version
         Public NestUDT() As GenesteterUDT
     End Structure
     Dim MyDocVersion As Version
@@ -59,13 +60,15 @@ Public Class DataBAGZZlash
     Public Sub New()
         ' leave this version hardocded and do not change the version until any data-structure has actually changed!!!
         MyDocVersion = New Version(2025, 3, 14)
+        'if your data structure has actually changed, you must update the document version nr
+
         ReDim MyTest.NestUDT(0 To 1)
         MyTest.NestUDT(0).TestDouble = 0.2
         MyTest.NestUDT(1).TestDouble = 0.4
         MyTest.TestLong = 123
         MyTest.TestString = "Dies ist ein Test!"
     End Sub
-    Public Function IsEqual(other As DataBAGZZlash) As Boolean
+    Public Function IsEqual(other As DataChallenge) As Boolean
         If MyTest.TestString <> other.Teststring Then Return False
         If MyTest.TestLong <> other.TestLong Then Return False
         If MyTest.NestUDT.Length <> other.NestUDT.Length Then Return False
@@ -86,7 +89,7 @@ Public Class DataBAGZZlash
     Function Date_ToVersion(dt As Date) As Version
         Date_ToVersion = New Version(Year(dt), Month(dt), Day(dt))
     End Function
-    Public Sub Write_V20250314(bw As IO.BinaryWriter)
+    Public Sub Write(bw As IO.BinaryWriter, ver As Version)
         bw.Write(Version_ToDate(New Version(2025, 3, 14)))
         bw.Write(MyTest.TestString)
         bw.Write(MyTest.TestLong)
